@@ -1,0 +1,5 @@
+LIBRARY VMAudioBackHost
+EXPORTS
+	VMABH_Enable_SE_DEBUG
+	VMABH_EnforceTimerRes
+	VMABH_InjectProcess
