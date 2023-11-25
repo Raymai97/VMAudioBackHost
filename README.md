@@ -3,6 +3,8 @@ Another attempt to fix what VMAudioBack couldn't.
 
 Do you have distort sound issue in your VMware VM? That VMAudioFixTray and VMAudioBack could not fix? If so, try this.
 
+![screenshot](./vmabh_sshot.png)
+
 [Demo Video](./demo.mp4)
 
 ## Quick note
