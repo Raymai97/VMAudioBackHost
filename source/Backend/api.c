@@ -25,7 +25,7 @@ EXTERN_C HRESULT VMABH_API VMABH_Enable_SE_DEBUG(void)
 eof:
 	if (w32err) hr = HRESULT_FROM_WIN32(w32err);
 	if (hToken) CloseHandle(hToken);
-	return w32err;
+	return hr;
 }
 
 
